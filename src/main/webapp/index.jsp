@@ -3,7 +3,7 @@
     <title>Boxfuse Sample App: success!</title>
 </head>
 <body style="text-align: center">
-<h1>Congratulations Pipeline!</h1>
+<h1>Congratulations sivalakshmanna!</h1>
 <img src="Rajani.PNG">
 <img src="megastar.jpg">
 
