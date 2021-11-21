@@ -4,7 +4,7 @@
 </head>
 <body style="text-align: center">
 <h1>Congratulations! multipul server </h1>
-<img src="bike.jpg">
+<img src="ntr.png">
 
 <h2>You have successfully launched your Instance!my team.com!</h2>
 
